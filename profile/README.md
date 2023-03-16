@@ -1,6 +1,8 @@
 <div align = "center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=230&text=Re%+act&desc=경기대학교%20거북이%20학습그룹&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-React)  
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&height=230&section=header&text=Re%+act&desc=경기대학교%20거북이%20학습그룹&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-React)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKGU-React%2Fhit-counter&count_bg=%236196FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/KGU-React)
 
 ### 👨‍👩‍👧‍👦&nbsp; Members
 
@@ -21,6 +23,6 @@
 
 &nbsp;
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&section=footer)](https://github.com/KGU-CS-HOME)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&section=footer)](https://github.com/KGU-CS-HOME)
 
 </div>
