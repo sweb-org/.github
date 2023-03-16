@@ -12,7 +12,6 @@
 &nbsp;
 
 ### 📝&nbsp; Curriculum
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
 
 &nbsp;
 
