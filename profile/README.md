@@ -9,6 +9,7 @@
 &nbsp;
 
 ### 🛠︎&nbsp; Tech
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
 
 &nbsp;
