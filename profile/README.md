@@ -11,7 +11,7 @@
 ### 📝&nbsp; Curriculum
 
 <details>
-<summary><strong>&nbsp;2023년 1학기</strong></summary>
+<summary><strong>&nbsp;2023년 1학기 React</strong></summary>
 
 <!-- :black_square_button: :ballot_box_with_check: -->
 ||회차|모임 일시|학습내용|
@@ -24,6 +24,38 @@
 |:black_square_button:|6회차|5월 3일|과제물 및 퀴즈 수행, 리액트 오류 메시지 이해,<br>코드 흐름 및 경고 분석, 중단점(Breakpoint) 작업, 리액트 Developer Tools|
 |:black_square_button:|7회차|5월 10일|과제물 및 퀴즈 수행, 검증 추가 및 로직 재설정,<br>Error Modal 제작, 오류 State 관리|
 |:black_square_button:|8회차|5월 17일|과제물 및 퀴즈 수행, JSX 제한사항 및 해결 방법,<br>컴포넌트 Wrapper 제작, Fragment, Portals, Refs, 제어되는 컴포넌트와 제어되지 않는 컴포넌트|
+</details>
+
+<details>
+<summary><strong>&nbsp;2023년 2학기 React Deep Dive</strong></summary>
+
+<!-- :black_square_button: :ballot_box_with_check: -->
+||회차|모임 일시|학습내용|
+|:---:|:---:|:---:|:---:|
+|:black_square_button:|1회차|MM월 DD일||
+|:black_square_button:|2회차|MM월 DD일||
+|:black_square_button:|3회차|MM월 DD일||
+|:black_square_button:|4회차|MM월 DD일||
+|:black_square_button:|5회차|MM월 DD일||
+|:black_square_button:|6회차|MM월 DD일||
+|:black_square_button:|7회차|MM월 DD일||
+|:black_square_button:|8회차|MM월 DD일||
+</details>
+
+<details>
+<summary><strong>&nbsp;2024년 1학기 TypeScript</strong></summary>
+
+<!-- :black_square_button: :ballot_box_with_check: -->
+||회차|모임 일시|학습내용|
+|:---:|:---:|:---:|:---:|
+|:black_square_button:|1회차|MM월 DD일||
+|:black_square_button:|2회차|MM월 DD일||
+|:black_square_button:|3회차|MM월 DD일||
+|:black_square_button:|4회차|MM월 DD일||
+|:black_square_button:|5회차|MM월 DD일||
+|:black_square_button:|6회차|MM월 DD일||
+|:black_square_button:|7회차|MM월 DD일||
+|:black_square_button:|8회차|MM월 DD일||
 </details>
 
 &nbsp;
