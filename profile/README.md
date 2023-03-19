@@ -1,6 +1,6 @@
 <div align = "center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&height=230&section=header&text=Re%+act&desc=경기대학교%20거북이%20학습그룹&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-React)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&height=230&section=header&text=Re%+act&desc=경기대학교%20거북이%20학습그룹&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-REACT)
 
 ### 🛠︎&nbsp; Tech
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black&style=flat)
@@ -70,6 +70,6 @@
 
 &nbsp;
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&section=footer)](https://github.com/KGU-CS-HOME)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&section=footer)](https://github.com/KGU-REACT)
 
 </div>
