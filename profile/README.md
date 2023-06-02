@@ -10,10 +10,7 @@
 &nbsp;
 
 ### 📝&nbsp; Curriculum
-
-<details>
-<summary><strong>&nbsp;2023년 1학기 React</strong></summary>
-
+**2023년 1학기 React**
 |회차|모임 일시|학습내용|
 |:---:|:---:|:---:|
 |<ul><li>[x] 1회차&nbsp;</li></ul>|3월 22일|React의 작동 방식, 차세대 자바스크립트<br>(let & const, 화살표 함수, 모듈, 클래스, Spread & Rest, 구조분해할당, 배열함수)|
@@ -24,7 +21,6 @@
 |<ul><li>[x] 6회차&nbsp;</li></ul>|5월 3일|과제물 및 퀴즈 수행, 리액트 오류 메시지 이해,<br>코드 흐름 및 경고 분석, 중단점(Breakpoint) 작업, 리액트 Developer Tools|
 |<ul><li>[x] 7회차&nbsp;</li></ul>|5월 10일|과제물 및 퀴즈 수행, 검증 추가 및 로직 재설정,<br>Error Modal 제작, 오류 State 관리|
 |<ul><li>[x] 8회차&nbsp;</li></ul>|5월 17일|과제물 및 퀴즈 수행, JSX 제한사항 및 해결 방법, 컴포넌트 Wrapper 제작, <br>Fragment, Portals, Refs, 제어되는 컴포넌트와 제어되지 않는 컴포넌트|
-</details>
 
 &nbsp;
 
