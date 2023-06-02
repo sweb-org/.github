@@ -26,36 +26,6 @@
 |<ul><li>[x] 8회차&nbsp;</li></ul>|5월 17일|과제물 및 퀴즈 수행, JSX 제한사항 및 해결 방법, 컴포넌트 Wrapper 제작, <br>Fragment, Portals, Refs, 제어되는 컴포넌트와 제어되지 않는 컴포넌트|
 </details>
 
-<details>
-<summary><strong>&nbsp;2023년 2학기 React Deep Dive</strong></summary>
-
-|회차|모임 일시|학습내용|
-|:---:|:---:|:---:|
-|<ul><li>[ ] 1회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 2회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 3회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 4회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 5회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 6회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 7회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 8회차&nbsp;</li></ul>|MM월 DD일|내용|
-</details>
-
-<details>
-<summary><strong>&nbsp;2024년 1학기 TypeScript</strong></summary>
-
-|회차|모임 일시|학습내용|
-|:---:|:---:|:---:|
-|<ul><li>[ ] 1회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 2회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 3회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 4회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 5회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 6회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 7회차&nbsp;</li></ul>|MM월 DD일|내용|
-|<ul><li>[ ] 8회차&nbsp;</li></ul>|MM월 DD일|내용|
-</details>
-
 &nbsp;
 
 ### 👨‍👩‍👧‍👦&nbsp; Members
