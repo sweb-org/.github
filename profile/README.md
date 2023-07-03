@@ -9,7 +9,21 @@
 &nbsp;
 
 ### 📝&nbsp; Curriculum
-**2023년 1학기 React**
+**2023년 2학기 React: Deep Dive**
+|회차|모임 일시|학습내용|
+|:---:|:---:|:---:|
+|<ul><li>[ ] 1회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 2회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 3회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 4회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 5회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 6회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 7회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 8회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+
+<details>
+<summary><strong>&nbsp;2023년 1학기 React</strong></summary>
+  
 |회차|모임 일시|학습내용|
 |:---:|:---:|:---:|
 |<ul><li>[x] 1회차&nbsp;</li></ul>|3월 22일|React의 작동 방식, 차세대 자바스크립트<br>(let & const, 화살표 함수, 모듈, 클래스, Spread & Rest, 구조분해할당, 배열함수)|
@@ -20,15 +34,25 @@
 |<ul><li>[x] 6회차&nbsp;</li></ul>|5월 3일|과제물 및 퀴즈 수행, 리액트 오류 메시지 이해,<br>코드 흐름 및 경고 분석, 중단점(Breakpoint) 작업, 리액트 Developer Tools|
 |<ul><li>[x] 7회차&nbsp;</li></ul>|5월 10일|과제물 및 퀴즈 수행, 검증 추가 및 로직 재설정,<br>Error Modal 제작, 오류 State 관리|
 |<ul><li>[x] 8회차&nbsp;</li></ul>|5월 17일|과제물 및 퀴즈 수행, JSX 제한사항 및 해결 방법, 컴포넌트 Wrapper 제작, <br>Fragment, Portals, Refs, 제어되는 컴포넌트와 제어되지 않는 컴포넌트|
+</details>
 
 &nbsp;
 
 ### 👨‍👩‍👧‍👦&nbsp; Members
+**2023년 2학기 React: Deep Dive**
+|[![Wontory](https://avatars.githubusercontent.com/u/94912717)](http://github.com/wontory)|[![Meta](https://avatars.githubusercontent.com/u/69631)](http://github.com/facebook)|[![Meta](https://avatars.githubusercontent.com/u/69631)](http://github.com/facebook)|[![Meta](https://avatars.githubusercontent.com/u/69631)](http://github.com/facebook)|
+|:---:|:---:|:---:|:---:|
+|**👑 [조성원](http://github.com/wontory)**|**💎 [Meta](http://github.com/facebook)**|**💎 [Meta](http://github.com/facebook)**|**💎 [Meta](http://github.com/facebook)**|
+|컴퓨터공학부 19|facebook|facebook|facebook|
 
+<details>
+<summary><strong>&nbsp;2023년 1학기 React</strong></summary>
+  
 |[![Wontory](https://avatars.githubusercontent.com/u/94912717)](http://github.com/wontory)|[![JaeguJaegu](https://avatars.githubusercontent.com/u/118053865)](http://github.com/SunwooJaeho)|[![yunjusseongg](https://avatars.githubusercontent.com/u/126853299)](http://github.com/yunjusseongg)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|
 |:---:|:---:|:---:|:---:|
 |**👑 [조성원](http://github.com/wontory)**|**💎 [선우재호](http://github.com/SunwooJaeho)**|**💎 [윤주성](http://github.com/yunjusseongg)**|**💎 [조병찬](http://github.com/bbjbc)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
+</details>
 
 &nbsp;
 
