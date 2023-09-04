@@ -9,7 +9,7 @@
 &nbsp;
 
 ### 📝&nbsp; Curriculum
-**2023년 2학기 React: Deep Dive**
+<!--**2023년 2학기 React: Deep Dive**
 |회차|모임 일시|학습내용|
 |:---:|:---:|:---:|
 |<ul><li>[ ] 1회차&nbsp;</li></ul>|12월 12일|Buuurp!|
@@ -19,7 +19,7 @@
 |<ul><li>[ ] 5회차&nbsp;</li></ul>|12월 12일|Buuurp!|
 |<ul><li>[ ] 6회차&nbsp;</li></ul>|12월 12일|Buuurp!|
 |<ul><li>[ ] 7회차&nbsp;</li></ul>|12월 12일|Buuurp!|
-|<ul><li>[ ] 8회차&nbsp;</li></ul>|12월 12일|Buuurp!|
+|<ul><li>[ ] 8회차&nbsp;</li></ul>|12월 12일|Buuurp!|-->
 
 <details>
 <summary><strong>&nbsp;2023년 1학기 React</strong></summary>
@@ -39,11 +39,11 @@
 &nbsp;
 
 ### 👨‍👩‍👧‍👦&nbsp; Members
-**2023년 2학기 React: Deep Dive**
+<!--**2023년 2학기 React: Deep Dive**
 |[![Wontory](https://avatars.githubusercontent.com/u/94912717)](http://github.com/wontory)|[![Meta](https://avatars.githubusercontent.com/u/69631)](http://github.com/facebook)|[![Meta](https://avatars.githubusercontent.com/u/69631)](http://github.com/facebook)|[![Meta](https://avatars.githubusercontent.com/u/69631)](http://github.com/facebook)|
 |:---:|:---:|:---:|:---:|
 |**👑 [조성원](http://github.com/wontory)**|**💎 [Meta](http://github.com/facebook)**|**💎 [Meta](http://github.com/facebook)**|**💎 [Meta](http://github.com/facebook)**|
-|컴퓨터공학부 19|facebook|facebook|facebook|
+|컴퓨터공학부 19|facebook|facebook|facebook|-->
 
 <details>
 <summary><strong>&nbsp;2023년 1학기 React</strong></summary>
